@@ -1,0 +1,3 @@
+[submodule "subprojects/zaolib"]
+	path = subprojects/zaolib
+	url = https://github.com/coolguy1842/zaolib
